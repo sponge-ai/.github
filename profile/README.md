@@ -11,3 +11,7 @@ With realtime voice, pdf upload, and fluency trees.
 Current iteration: [v0.3-pdf-streaming](https://github.com/sponge-ai/v0.3-pdf-streaming)
 
 We're early, but moving fast. Feedback and collaboration welcome.
+
+### Founders
+
+Gordon Liang, Ahaan Shah
